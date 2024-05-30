@@ -22,6 +22,16 @@ Ctrl+C para salir
 
 npm install nodemon -D
 
+
+---------------------------------------
+Para correr el proyecto
+1) abrir un CMD
+2) CD C:\COTIZACIONES\crud-nodejs-mysql-master\src
+           carpeta con el nombre del proyecto
+3) npm start
+4) ir al navegador y poner http://localhost:3000/
+
+
 -----------------------------------------
 modificar el package.json --> en scripts poner "dev": "nodemon src/app.js "
 levantar el sistema ejecuntando desde la terminal node npm run dev
